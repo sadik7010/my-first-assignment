@@ -35,3 +35,22 @@ nav{
     border: none;
 
 }
+/* Banner style */
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: rgba(37, 36, 50, 1);
+}
+.banner{
+    justify-content: center;
+    text-align: center;
+    padding:309px 267px 91px 267px ;
+    
+    
+    
+}
+.nav-banner{
+    background-image: url(../Assets/Hero-bg.png);
+    /* background-repeat: no-repeat; */
+    
+}
