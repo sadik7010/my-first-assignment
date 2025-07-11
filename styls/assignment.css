@@ -24,6 +24,9 @@ nav{
     font-size: 34px;
     color: rgba(78, 71, 255, 1);
 }
+.logo{
+    font-size: 5em;
+}
 .nav-btn{
     font-weight: 700;
     font-size: 16px;
@@ -164,6 +167,49 @@ div input[type="text"]{
 }
 .page-color{
     background-color:#f5f7ff;
+}
+.about{
+    padding: 104px 455px 103px 454px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 1);
+
+}
+.about-links{
+    display: flex;
+    gap: 48px;
+    
+    justify-content: center;
+}
+.about-links a{
+    text-decoration: none;
+}
+.section-description{
+    color: rgba(137, 135, 161, 1);
+    font-size: 1.5em;
+    margin-bottom: 40px;
+    padding: 0 20px;
+}
+a{
+    color: rgba(137, 135, 161, 1);
+    font-size: 1.5em;
+}
+a:hover{
+    color: burlywood;
+background-color:hsl(60, 30%, 22%) ;
+}
+
+.reviews-section{
+    text-align: center;
+    /* max-width: 1200px; */
+    font-weight: bold;
+    font-size: 42px;
+    width: 100%;
+    padding: 20px;
+}
+.nav-btn:hover{
+    background-color: hsl(60, 30%, 22%);
+    color: #fff;
+    cursor: pointer;
 }
 
 
