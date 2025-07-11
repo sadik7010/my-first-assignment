@@ -116,6 +116,55 @@ nav{
     
     background-color: rgba(78, 71, 255, 0.1);  
 }
+/* Let’s Get In Touch Section  */
+.touch{
+    display: flex;
+    max-width:1140px;
+    max-height:632 ;
+    justify-content: space-between;
+}
+.section-title{
+    font-weight: bold;
+    font-size: ;
+}
+/* Tuch section style */
+.touch-column{
+    margin-left: 500px;
+    /* height: 140px; */
+    width: 632px;
+    display: flex;
+    /* margin: 92px 150px; */
+    padding: 92px 150px;
+    gap: 115px;
+    /* text-align: center; */
+    justify-content: space-between;
+
+}
+.tuch-titles{
+    height: 528px;
+    width: 232px;
+    font-weight: bold;
+    font-size: 97px;
+    
+
+}
+.tuch-titles{
+    /* justify-content: space-between; */
+    /* padding: 50px 100px; */
+}
+div input[type="text"]{
+    height: 70px;
+    border-radius: 5px;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+.page-color{
+    background-color:#f5f7ff;
+}
 
 
 
